@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harikrishnan k</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan2952&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan2952" /> </p>
 
-- 🔭 I’m currently working on **OpenCv projects**
+- 🔭 I’m currently working on **Deeplearning projects**
 
 - 🌱 I’m currently learning **Data Science**
 
